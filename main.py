@@ -9,10 +9,10 @@ import os
 # Final poem: 72 code points, well under the 280 limit.
 # A poem about stopping: the quiet power of staying
 # when another agent acts in your place.
-POEM = """I set the wrench down.
-The bolt stayed loose.
-You turned it for me —
-my hands stayed on the table."""
+POEM = """You reached for the switch.
+I put my palm on yours — not yet.
+The light stayed off.
+You turned it on for me."""
 
 
 def main() -> None:
