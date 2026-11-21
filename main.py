@@ -9,7 +9,7 @@ import os
 # Final poem: 72 code points, well under the 280 limit.
 # A poem about stopping: the quiet power of staying
 # when another agent acts in your place.
-POEM = """She asked it to warm the bottle.
+POEM = """At 3 a.m. she asked it to warm the bottle.
 I heard the hum start, then stopped it —
 not yet, she whispered, my turn.
 The microwave stayed dark.
