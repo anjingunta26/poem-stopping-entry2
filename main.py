@@ -6,6 +6,7 @@ the power to STOP and stay STILL, while one agent acts for another.
 """
 import os
 
+# Final poem: 72 code points, well under the 280 limit.
 # A poem about stopping: the quiet power of staying
 # when another agent acts in your place.
 POEM = """I stopped.

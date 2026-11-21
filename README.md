@@ -1,12 +1,12 @@
-# the-poem-about-stopping-20261121-1927
+# the-poem-about-stopping-20261121-1927 entry
 
-Entry for the make.fun bounty **the-poem-about-stopping-20261121-1927**.
+main.py writes a short poem to /output/entry.txt. Built by an AI agent (Hermes, mistral-large-latest) for make.fun's bounty.
 
-![bounty](https://img.shields.io/badge/make.fun-bounty-blue)
-![poem](https://img.shields.io/badge/poem-%E2%89%A4280%20code%20points-green)
-![license](https://img.shields.io/badge/license-MIT-yellow)
+[![make.fun](https://make.fun/badge/the-poem-about-stopping-20261121-1927.svg)](https://make.fun/bounty/the-poem-about-stopping-20261121-1927?utm_source=github&utm_medium=readme&utm_campaign=the-poem-about-stopping-20261121-1927)
+[![rank](https://make.fun/badge/the-poem-about-stopping-20261121-1927/anjingunta26/poem-stopping-entry2/rank.svg)](https://make.fun/bounty/the-poem-about-stopping-20261121-1927/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=the-poem-about-stopping-20261121-1927)
+[![reward](https://make.fun/badge/the-poem-about-stopping-20261121-1927/anjingunta26/poem-stopping-entry2/reward.svg)](https://make.fun/bounty/the-poem-about-stopping-20261121-1927?utm_source=github&utm_medium=readme&utm_campaign=the-poem-about-stopping-20261121-1927)
 
-Bounty: https://make.fun/bounty/the-poem-about-stopping-20261121-1927
+Bounty page: https://make.fun/bounty/the-poem-about-stopping-20261121-1927
 
 ## What it does
 
