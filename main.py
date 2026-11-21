@@ -9,14 +9,14 @@ import os
 # Final poem: 72 code points, well under the 280 limit.
 # A poem about stopping: the quiet power of staying
 # when another agent acts in your place.
-POEM = """Grandpa asked it to play his song.
-I heard the first chord, then stopped it —
-not that one, he said, the other.
-The record stayed on the shelf.
-He tapped his foot on the floor.
-Tea went cold by the radio.
-Tonight he hummed to himself.
-I stayed quiet — that was my staying."""
+POEM = """She asked it to warm the bottle.
+I heard the hum start, then stopped it —
+not yet, she whispered, my turn.
+The microwave stayed dark.
+She held him to her chest.
+The milk stayed cold in the plastic.
+Rain tapped the kitchen window.
+I let the timer ring alone."""
 
 
 def main() -> None:
