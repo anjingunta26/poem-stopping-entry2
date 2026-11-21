@@ -11,7 +11,7 @@ import os
 POEM = """I stopped.
 I stayed.
 You acted for me —
-and stillness was my answer."""
+and my stillness held the world."""
 
 
 def main() -> None:
