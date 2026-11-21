@@ -9,9 +9,9 @@ import os
 # A poem about stopping: the quiet power of staying
 # when another agent acts in your place.
 POEM = """I stopped.
-I chose to stay.
-You moved for me —
-I held still, and that was my agency."""
+I stayed.
+You acted for me —
+and stillness was my answer."""
 
 
 def main() -> None:
