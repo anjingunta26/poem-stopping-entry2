@@ -15,8 +15,8 @@ not yet, she said, not tonight.
 The phone lay dark on the table.
 She sat with her tea going cold.
 The number stayed saved, untouched.
-Tonight, she just sat by the window.
-Tomorrow, maybe."""
+Tonight, she stayed by the window.
+I stayed off — and that was my staying."""
 
 
 def main() -> None:
