@@ -9,8 +9,8 @@ import os
 # A poem about stopping: the quiet power of staying
 # when another agent acts in your place.
 POEM = """I stopped.
-I stayed.
-You acted for me —
+I stayed —
+you acted for me,
 and my stillness held the world."""
 
 
